@@ -72,6 +72,7 @@ This project is a full-scale enterprise web application designed to manage the c
 
 🗄️ Database Design
 
+  
   users
   students
   companies
